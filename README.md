@@ -3,13 +3,19 @@
 ### **Meu nome é Jefferson e tenho 26 anos.**
 
 
+<img src='https://github.com/Jeff-fds/Jeff-fds/blob/main/Monkey_Kid_Coding.gif?raw=true' align='left' width="30%">
+<br>
+<br>
+
 * 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
+
 * 🔎 Procuro uma oportunidade de estágio na área de desenvolvimento.
 * 📫 Para entrar em contato comigo: jefferson.freitas.10@outlook.com
 * 📄 Saiba sobre minhas experiências [[jeff-fds]](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
+<br/>
+<br><br>
 
-
-### **Conecte-se comigo:**
+## **Conecte-se comigo:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
