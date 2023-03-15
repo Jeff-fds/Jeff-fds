@@ -1,16 +1,17 @@
-### Hi there 👋
+### **_Opa, Tranquilo?_** 👋
 
-<!--
-**Jeff-fds/Jeff-fds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Meu nome é Jefferson e tenho 26 anos.**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
+* 🔎 Procuro uma oportunidade de estágio na área de desenvolvimento.
+* 📫 Para entrar em contato comigo: jefferson.freitas.10@outlook.com
+* 📄 Saiba sobre minhas experiências [[jeff-fds]](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
+
+
+### **Conecte-se comigo:**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
+[![Instrgram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/jeff_fds/)
