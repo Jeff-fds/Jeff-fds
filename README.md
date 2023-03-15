@@ -6,14 +6,20 @@
 <img src='https://github.com/Jeff-fds/Jeff-fds/blob/main/Monkey_Kid_Coding.gif?raw=true' align='left' width="30%">
 <br>
 <br>
+<div align= "center">
+  
+📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
 
-* 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
+🔎 Procuro uma oportunidade de estágio na área de desenvolvimento.
 
-* 🔎 Procuro uma oportunidade de estágio na área de desenvolvimento.
-* 📫 Para entrar em contato comigo: jefferson.freitas.10@outlook.com
-* 📄 Saiba sobre minhas experiências [[jeff-fds]](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
+📫 Para entrar em contato comigo: jefferson.freitas.10@outlook.com
+
+📄 Saiba sobre minhas experiências [[jeff-fds]](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
 <br/>
-<br><br>
+
+</div>
+
+<br><br><br><br>
 
 ## **Conecte-se comigo:**
 
