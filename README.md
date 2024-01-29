@@ -1,12 +1,6 @@
 ### **_Opa, Tranquilo?_** 👋
 
 ### **Meu nome é Jefferson e tenho 26 anos.**
-
-
-<img src='https://github.com/Jeff-fds/Jeff-fds/blob/main/Monkey_Kid_Coding.gif?raw=true' align='left' width="35%">
-<br>
-<br>
-<div align= "center">
   
 📘 Estudo na PUC Minas - Análise e Desenvolvimento de Sistemas.
 
@@ -17,9 +11,7 @@
 📄 Saiba sobre minhas experiências [[jeff-fds]](https://www.linkedin.com/in/jefferson-freitas-bb9565187/)
 <br/>
 
-</div>
-
-<br><br><br><br><br><br>
+<br><br>
 
 ## **Conecte-se comigo:**
 
